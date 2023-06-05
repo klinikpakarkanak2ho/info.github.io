@@ -17,7 +17,7 @@ widget1:
   <br/> <em> Bandar Tasek Mutiara</em> 
   <br/> <em>14120 Simpang Ampat</em> 
   <br/><a href="https://www.waze.com/ms/live-map/directions/my/pulau-pinang/simpang-ampat/klinik-pakar-kanak-kanak-pearl-city-pearl-city-child-specialist-clinic?to=place.ChIJv4NEeAO3SjARMABTtRQjiZg">Waze</a> or <a href="https://www.google.com/maps/dir/klinik+pakar+kanak-kanak+pearl+city+google+map">Google Maps</a>
-  <br/> 014-10241235 '
+  <br/> 011-6319 8198'
   
 
 widget3:
@@ -30,7 +30,7 @@ widget3:
   <br/> <em> Pusat Komersial Sri Rambai </em> 
   <br/> <em>14120 Bukit Mertajam</em> 
   <br/><a href="https://www.waze.com/ms/live-map/directions/my/pulau-pinang/bukit-mertajam/ho-child-specialist-clinic?to=place.ChIJ2zknRpvISjARZ1UgShxblpI">Waze</a> or <a href="https://www.google.com/maps/dir/Klinik+Pakar+Kanak-Kanak+Ho,+Pusat+Komersial,+15,+Lorong+Tembikai+6,+Taman+Sri+Rambai,+14000+Bukit+Mertajam,+Penang/">Google Maps</a>
-  <br/> 014-10241235 '
+  <br/> 017-465 8906'
 
 #
 # Use the call for action to show a button on the frontpage
