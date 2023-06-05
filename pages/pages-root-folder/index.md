@@ -8,7 +8,7 @@ layout: frontpage
 header: 
   image_fullwidth: 
 widget1:
-  title: "Dr. Ho Khin Aik <em>(Paediatrician)</em>"
+  title: "Dr. Ho Khin Aik"
   url: '/kaho'
   image: ../../assets/img/doctor.png
   text: '<strong>Mon-Sat 9.00am to 5.00pm</strong> 
@@ -21,7 +21,7 @@ widget1:
   
 
 widget3:
-  title: "Dr. Violet Mo <em>(Paediatrician)</em>""
+  title: "Dr. Violet Mo"
   url: '/violetmo'
   image: ../../assets/img/doctora.png
   text: '<strong>Mon-Sat 9.30am to 4.30pm</strong>
