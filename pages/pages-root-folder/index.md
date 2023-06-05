@@ -8,29 +8,27 @@ layout: frontpage
 header: 
   image_fullwidth: 
 widget1:
-  title: "Dr. Ho Khin Aik"
+  title: "Dr. Ho Khin Aik <em>(Paediatrician)</em>"
   url: '/kaho'
   image: ../../assets/img/doctor.png
-  text: '<em>Paediatrician</em> <br/>
-   <strong>Klinik Pakar Kanak-Kanak Pearl City</strong>
+  text: '<strong>Mon-Sat 9.00am to 5.00pm</strong> 
+   <br/> <strong>Klinik Pakar Kanak-Kanak Pearl City</strong>
   <br/> <em> 7, Lorong 22/SS1</em>
   <br/> <em> Bandar Tasek Mutiara</em> 
   <br/> <em>14120 Simpang Ampat</em> 
-  <br/> <strong>Mon-Sat 9.00am to 5.00pm</strong> 
   <br/><a href="https://www.waze.com/ms/live-map/directions/my/pulau-pinang/simpang-ampat/klinik-pakar-kanak-kanak-pearl-city-pearl-city-child-specialist-clinic?to=place.ChIJv4NEeAO3SjARMABTtRQjiZg">Waze</a> or <a href="https://www.google.com/maps/dir/klinik+pakar+kanak-kanak+pearl+city+google+map">Google Maps</a>
   <br/> 014-10241235 '
   
 
 widget3:
-  title: "Dr. Violet Mo"
+  title: "Dr. Violet Mo <em>(Paediatrician)</em>""
   url: '/violetmo'
   image: ../../assets/img/doctora.png
-  text: '<em>Paediatrician</em> <br/>
-   <strong>Klinik Pakar Kanak-Kanak Ho</strong>
+  text: '<strong>Mon-Sat 9.30am to 4.30pm</strong>
+  <br/> <strong>Klinik Pakar Kanak-Kanak Ho</strong>
   <br/> <em> 15, Lorong Tembikai 6 </em> 
   <br/> <em> Pusat Komersial Sri Rambai </em> 
   <br/> <em>14120 Bukit Mertajam</em> 
-  <br/> <strong>Mon-Sat 9.30am to 4.30pm</strong> 
   <br/><a href="https://www.waze.com/ms/live-map/directions/my/pulau-pinang/bukit-mertajam/ho-child-specialist-clinic?to=place.ChIJ2zknRpvISjARZ1UgShxblpI">Waze</a> or <a href="https://www.google.com/maps/dir/Klinik+Pakar+Kanak-Kanak+Ho,+Pusat+Komersial,+15,+Lorong+Tembikai+6,+Taman+Sri+Rambai,+14000+Bukit+Mertajam,+Penang/">Google Maps</a>
   <br/> 014-10241235 '
 
