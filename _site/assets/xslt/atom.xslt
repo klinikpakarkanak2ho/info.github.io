@@ -67,28 +67,28 @@
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/icon.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/icon.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/icon.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/icon.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/icon.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -148,7 +148,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/english/">English</a></li>
+                      <li><a  href="http://localhost:4000/">English</a></li>
                     
 
                       
@@ -175,10 +175,26 @@
 
             
             
-              <li><a  href="http://localhost:4000/hours/">Hours</a></li>
-              <li class="divider"></li>
 
-            
+              <li class="has-dropdown">
+                <a  href="http://localhost:4000/hours/bm">Hours</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/hours/bm">Bukit Mertajam</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/hours/sa">Simpang Ampat</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
             
           
         
@@ -225,8 +241,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="Ho Child Specialist – lorem ipsum">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="Ho Child Specialist – lorem ipsum">
+			<a id="logo" href="http://localhost:4000/" title="Ho Child Specialist – Home">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Ho Child Specialist – Home">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->

@@ -2,11 +2,18 @@
 layout: default
 format: post
 ---
+<!-- /.medium-8.columns -->
+<!--
+{% include note.html 
+	content="Both Clinics will be closed from 01-06-2023 (Monday) to 02-06-2023 (Tuesday)" %}
+-->
+
 <div class="row t30">
 	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 		<article itemscope itemtype="http://schema.org/Article">
 			<header>
 				{% if page.image.title %}
+				
 				<figure>
 					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
 
@@ -20,6 +27,7 @@ format: post
 					</figcaption>
 					{% endif %}
 				</figure>
+			
 				{% endif %}
 
 				<div itemprop="name">

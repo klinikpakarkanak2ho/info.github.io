@@ -9,9 +9,9 @@ header:
   image_fullwidth: 
 widget1:
   title: "Dr. Ho Khin Aik"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: '<em>Paediatrics</em> <br/>
+  url: '/kaho'
+  image: ../../assets/img/doctor.png
+  text: '<em>Paediatrician</em> <br/>
    <strong>Klinik Pakar Kanak-Kanak Pearl City</strong>
   <br/> <em> 7, Lorong 22/SS1</em>
   <br/> <em> Bandar Tasek Mutiara</em> 
@@ -22,9 +22,9 @@ widget1:
 
 widget3:
   title: "Dr. Violet Mo"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: '<em>Paediatrics</em> <br/>
+  url: '/violetmo'
+  image: ../../assets/img/doctora.png
+  text: '<em>Paediatrician</em> <br/>
    <strong>Klinik Pakar Kanak-Kanak Ho</strong>
   <br/> <em> 15, Lorong Tembikai 6 </em> 
   <br/> <em> Pusat Komersial Sri Rambai </em> 
