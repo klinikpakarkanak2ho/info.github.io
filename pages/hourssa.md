@@ -11,12 +11,12 @@ permalink           : "/hours/sa"
 
 | **Days** | **Hours of Operation**|
 |-----|-------------|
-| Monday | 00:00-00:00 |
-| Tuesday | 00:00-00:00 |
-| Wednesday | 00:00-00:00 |
-| Thursday | 00:00-00:00 |
-| Friday | 00:00-00:00 |
-| Saturday | 00:00-00:00 |
+| Monday | 09:00-17:00 |
+| Tuesday | 09:00-17:00 |
+| Wednesday | 09:00-17:00 |
+| Thursday | 09:00-17:00 |
+| Friday | 09:00-17:00 |
+| Saturday | 09:00-17:00 |
 | Sunday | **Closed**  |
 
 ## Holidays
@@ -25,10 +25,10 @@ For the year 2023, we observe the following public holidays
 
 | **Holiday** | **Date**|
 |-----|-------------|
-| x | 00:00-00:00 |
-| y | 00:00-00:00 |
-| z | 00:00-00:00 |
-| a | 00:00-00:00 |
-| b | 00:00-00:00 |
-| c | 00:00-00:00 |
-| d | **Closed**  |
+| x | 99-99-2023 |
+| y | 99-99-2023 |
+| z | 99-99-2023 |
+| a | 99-99-2023 |
+| b | 99-99-2023 |
+| c | 99-99-2023 |
+| d | 99-99-2023 |
